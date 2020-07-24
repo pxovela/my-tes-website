@@ -1,5 +1,3 @@
 # Demo Website
 
-now edutubf ib update-readme branch
-
-updated locally
+updates made on master on Github before rebase
